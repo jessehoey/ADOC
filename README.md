@@ -18,3 +18,17 @@ What drives effective collaborations, and what tools can we develop that will pr
 The growing importance of digital collaboration in a global distributed economy - a concept depicting the switch from centralised mass production to decentralised micro production, enabled by digital collaboration platforms, of which GitHub is one if not the most important. If this is where society and the global economy is headed (I read a lot of this stuff recently and could elaborate), we need tools to understand how teamwork in a digital, and possibly cross-cultural, context functions and when it is (not) efficient, whom it includes/excludes etc. We propose that BayesACT is such a tool because it is a valid framework for describing dyadic and small-group interaction, which has the potential to be scaled in order to deal with big behavioural data. However, there are a few challenges, which we aim to address with this project; e.g., how do we identify identity EPA profiles, actions and so forth (basically the questions we have been discussing so far, perhaps a few additional ones). We are ideally suited as a team to address these questions, because of our previous successful collaboration both across the Atlantic and across disciplines (psych, soc, AI). We could enlist your software engineering candidate as well, given his prior experience mining GitHub.
 This whole idea resonates well with some hypotheses I have been developing while observing the organisational dynamics here at my school. I think there is a lot to be explained about successful organisations and innovativeness based on the idea of affective alignment, but in a “real”/physical organisation it is difficult to observe and operationalise while on Github basically everything is recorded, so we could try to predict the quality/impact/success of projects based on affective properties of the interactions. I am definitely convinced we can frame this in terms of “pertinent social science questions” which we seek to address.
 How does that sound?
+
+
+http://dl.acm.org/citation.cfm?id=2145396
+http://dl.acm.org/citation.cfm?id=2568315
+
+Work plan sketch
+
+1. Qualitative interview work - what is *identity* on collaborative platforms such as Github? Analysis of identity dynamics from a qualitative perspective based on a small sample (N=10) :pencil:
+2. Surveys to characterize identity and behaviours and gather demographic information.  e.g. how does a *pull request* feel to different members, etc
+3. Choice of specific focus projects, for each:
+  1. gather data from the group to seed the model :minidisc:
+  2. run a group BayesACT model simulation :computer:
+  3. compare predictions of the model (e.g. productivity).  We expect e.g. groups with better *alignment structure* + who have differing skills to move forward faster  :chart_with_upwards_trend:
+4. generate more complex, testable hypotheses at the large (group/network) scale (e.g.diversity increases productivity), and at the micro (individual) scale (e.g. person X needs more attention :cry: as in Bayes.social)
