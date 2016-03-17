@@ -23,7 +23,17 @@ How does that sound?
 http://dl.acm.org/citation.cfm?id=2145396
 http://dl.acm.org/citation.cfm?id=2568315
 
-Work plan sketch
+Some possibly related papers:
+- [The Rise and Fall of a Central Contributor: Dynamics of Social Organization and Performance in the Gentoo Community] (http://arxiv.org/pdf/1302.7191.pdf)
+- [Are bullies more productive? Empirical study of affectiveness vs. issue fixing time] (http://mcis.polymtl.ca/publications/2015/msrmarco.pdf)
+- [All Contributors are Equal; Some Contributors are More Equal than Others] (https://repository.iiitd.edu.in/jspui/bitstream/123456789/388/1/IIITD-TR-2016-001.pdf)
+- [Gender bias in open source: Pull request acceptance of women versus men] (https://peerj.com/preprints/1733v1.pdf)
+- [The Challenges of Sentiment Detection in the Social Programmer Ecosystem] (http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/p33-novielli.pdf)
+- [Gender and tenure diversity in GitHub teams](http://bvasiles.github.io/papers/chi15.pdf)
+
+
+
+#Work plan sketch
 
 1. Qualitative interview work - what is *identity* on collaborative platforms such as Github? Analysis of identity dynamics from a qualitative perspective based on a small sample (N=10) :pencil:
 2. Surveys to characterize identity and behaviours and gather demographic information.  e.g. how does a *pull request* feel to different members, etc
