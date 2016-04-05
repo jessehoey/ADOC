@@ -1,0 +1,25 @@
+Context/Significance for Social Science:
+The future of work and generation of wealth: open collaboration, platform-based, self-organised, international
+
+=> need to understand dynamics of social interaction and decision-making under such a scenario.
+E.g., mechanisms of inclusion/exclusion, effectiveness of collaboration, spread of ideas, innovation dynamics,
+effects of increased diversity (gender, cultural, skills-based etc.)
+
+Our proposition: affect control processes are central for understanding these processes. Abundance of behavioural data on open collaboration platforms such as Github provides new opportunities for testing this claim. Recent papers (all 2014, 2015) on social and affective processes on Github demonstrate interest in this topic, but most are entirely empiricist, lacking theoretical foundation. In contrast, we will use Bayesian affect control theory, which is very well founded in decade-old knowledge from sociology and psychology, to study the affective basis of platform-based open collaboration.
+
+Project structure / complementary areas of expertise of the team:
+2 computer scientists: Jesse - modelling (theory) and Mei - data science (empirical)
+2 social scientists: Kim - local interactions (collaboration patterns in existing groups) and Tobias - global interactions (emergence of network structures and flows of ideas)
+
+Details on Tobias’ sub-project:
+Hypothesis: affective alignment predicts decision to join or abandon existing projects or to start new ones - when confronted with a certain project through exposure in one’s social network, there are two determinants of the decision to take part or not: the content/meaning of the project (“it would be really, really cool to be part of developing Linux”) and the anticipated interaction experiences (“people seem to be kind of bossy here, which I really don’t like”). Both could be captured in parallel by an extended ACT model that would include settings (i.e., the projects) as per Lynn Smnvith-Lovin’s 1980’s work.
+Background/social science significance: connect with spread-of-innovation literature, possibly values - what values do certain GitHub projects represent, do they align with my identity? (in Dave’s group simulator paper, there is some stuff on values and EPA, also Kim and I have some data not yet analysed on EPA-identity and values) 
+
+Challenges/necessary steps or tasks:
+-Develop BayesACT variant of extended (ABOS) ACT model
+-make predictions about joining groups/splitting up from groups
+-how to measure/estimate “setting EPAs” for GitHub projects?
+(applicable to project as a whole:)
+-how to figure out identity EPAs from GitHub data?
+-how to figure out behaviour EPAs and/or labels analogously to Dave’s group simulator paper / Bales interaction process analysis
+
