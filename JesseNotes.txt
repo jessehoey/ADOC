@@ -1,0 +1,15 @@
+
+
+We propose that online collaboration networks are driven in part by relational social ties, rather than transactional ones.  Strong and persistent ties in human networks are relational rather than transactional. In this view, rationality exists at the level of groups of agents, not of individuals.  Intelligence is defined by a social order that exists in a group and is internalised by each member through affective dynamical structures of roles} or identities.  Members of a group learn these structures as children, growing to assume a set of identities within the structures as adults. Members seek out other members of the group that play complementary roles, and enact a joint behaviour for their chosen relationship. 
+
+We hypothesise that
+1) It is possible to learn affective identities, roles, ties and dynamics from large databases of interactions (e.g. pull requests/chats) on social coding networks, and that this process will be guided/facilitated through the use of a consistent and theoretically well-grounded model of how relational ties form and are maintained based in sociological symbolic interactionism.
+2) The learned model will combine with mined identities in specific situations to produce useful decision support for social coders. It will provide guidance and help in the structuring of a social groups online to make more productive networks.  It will identify strengths and flaws in networks and report these to group members. It will provide online assistance during interactions to make them more effective.
+
+
+
+My role in the project:
+----------------------
+My role is to map from raw data to identity profiles and parameters of the BayesACT model.  Using Bayesian non-parametric models (e.g. topic models) and deep learning, I will construct a new version of the BayesACT model that is not constrained by the ACT polynomial features.  I will build a learning model that is able to discover feature sets that are relevant for predicting the dynamics of group affective identities and relational ties.  I will build applications that provide decision support for open source collaboration teams.  I will extend the models more generally for artificial intelligence applications.
+
+
