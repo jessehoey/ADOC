@@ -1,0 +1,19 @@
+In this project we want understand the personalities and therefore dynamics between humans involved in the task of developing open source software. By knowing these dynamics, we can make predictions on what actions can be taken. The goal from the software engineering point of view is to understand if humans when developing software, behave in a way similar to humans working together in other kinds of tasks that have been previously been studied. And if they do not, then do we need to update the models, or do we need to make recommendations to the humans developing software to improve their process. We can make this choice by examining if the end software product can be made better if the process is improved or if the current state of affairs is the best we can ever achieve. 
+
+In order to carry out the above examination, we will analyze the data collected from  humans developing software in the open source domain. In the open source domain, humans seldom interact in person. All interactions are digital and because it is open source development, all interactions are open as well. Therefore, as researchers, we have access to the interaction and development data for hundreds of thousands of open source software projects. Using this data we plan on determining the personalities of the developers, the interactions they have with other developers in building the software. 
+
+The various types of data that we can get from open source projects are as follows:
+
+1) Issue reports created by both developers and users of the software.
+2) The discussion on each issue carried out by a subset of developers trying to build a solution for the issue.
+3) Which solutions were accepted and which were rejected.
+4) The description and rationale for the solution from the source code changes and comments. 
+5) The quality of the solution (by examining if more bugs occur in after the solution has been implemented).
+6) The developers who have been making changes to a particular part of the software.
+7) The list of people who collaborate on a particular task.
+8) The complete list of changes done by a specific developer to a software project (along with when it was made).
+9) The contact details of the developers in case we need to reach out to them to clarify our findings. 
+10) (Possibly) the social media handles for the developers.
+11) The complexity of the changes and other software engineering metrics that we can use as control variables to compare apples to apples. 
+
+In this project, my goal will be to mine the software repository data, and provide context on how the results could help software development as a whole. 
