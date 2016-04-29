@@ -1,0 +1,7 @@
+Jesse: My role is to map from raw data to identity profiles and parameters of the BayesACT model.  Using Bayesian non-parametric models (e.g. topic models) and deep learning, I will construct a new version of the BayesACT model that is not constrained by the ACT polynomial features.  I will build a learning model that is able to discover feature sets that are relevant for predicting the dynamics of group affective identities and relational ties.  I will build applications that provide decision support for open source collaboration teams.  I will extend the models more generally for artificial intelligence applications.
+
+Kim: My planned contributions to the project would be in primarily in terms of theory development and testing, showing how computational techniques can lead to new theoretical insights. On the front end, I will help make sure that the research design includes all major elements in the theory, and operationalizes these elements in a way that will allow for meaningful theoretical interpretations of the results. On the back end, I will interpret our findings through the lens of social psychological theory, identifying aspects of extant theory we have successfully validated in a natural setting, and new insights our findings have yielded for the discipline.
+
+Tobias: global interactions (emergence of network structures and flows of ideas).
+
+Mei: In this project, my goal will be to mine the software repository data from Github, and provide context on how the results could help software development as a whole. 
