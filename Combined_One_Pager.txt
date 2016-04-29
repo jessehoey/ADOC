@@ -1,0 +1,57 @@
+We propose that online collaboration networks are driven in part by relational social ties, rather than transactional ones.  Strong and persistent ties in human networks are relational rather than transactional. In this view, rationality exists at the level of groups of agents, not of individuals.  Intelligence is defined by a social order that exists in a group and is internalised by each member through affective dynamical structures of roles or identities.  Members of a group learn these structures as children, growing to assume a set of identities within the structures as adults. Members seek out other members of the group that play complementary roles, and enact a joint behaviour for their chosen relationship. 
+
+Abundance of behavioural data on open collaboration platforms such as Github provides new opportunities for testing this claim. Github is primarily used for Open Source Software (OSS) development (which is an increasingly popular way to build software). In the open source domain, humans seldom interact in person since they are not co-located. Hence, all interactions are in digital form. Also, because it is open source development, all digital interaction data is openly available. Therefore, as researchers, we have access to the interaction and development data for hundreds of thousands of open source software projects, that are being developed by millions of developers from around the world. 
+
+Recent papers (all 2014, 2015) on social and affective processes on Github demonstrate interest in this topic, but most are entirely empiricist, lacking theoretical foundation. In contrast, we will use Bayesian affect control theory, which is very well founded in decade-old knowledge from sociology and psychology, to study the affective basis of platform-based open collaboration. It is possible to learn affective identities, roles, ties and dynamics from large databases of interactions (e.g. pull requests/chats) on social coding networks, and that this process will be guided/facilitated through the use of a consistent and theoretically well-grounded model of how relational ties form and are maintained based in sociological symbolic interactionism.
+
+Work related to the affect theory of social exchange and relational cohesion theory has shown that network structures both enable and constrain the development of fruitful social relations. Structural power and dependence shape who is likely to exchange with whom. The structure and frequency of social exchange affect positive/negative emotions, perceived cohesion with others, and ultimately one’s behavioral commitment to collaborative efforts. 
+
+While we have a clear theoretical starting point in the literature, as an important line of work has studied and developed theory around the affective basis of collaboration, and this work has not yet been explicitly theoretically linked with affect control theory.
+
+Our research will allow for 
+
+(1) a test of relational cohesion theory and, more broadly, the affect theory of social exchange in a natural setting which relaxes some of the scope conditions of the theory, 
+
+(2) a test of BayesACT in such a setting, and the further development of a network-based model of Bayesian affect control, and 
+
+(3) a theoretical bridge to be drawn between BayesACT and exchange theories, as we see how uncertainty is managed and beliefs formed about self and other in interaction, and learn how these mechanisms play into the affective processes involved in collaboration as described by Lawler, Thye, and Yoon in their previous work. 
+
+Thus, several high-impact theory papers could be generated through this work for publication in sociological journals.
+
+Challenges/necessary steps or tasks:
+
+Each of these concepts is theorized and operationalized in specific ways in the literature, and will need to be translated effectively from a laboratory setting to natural interactions on GitHub. 
+
+For example:
+
+-commitment has been operationalized in the previous literature as staying in the relation when good alternatives exist (stay behavior), unilaterally providing token gifts to each other (i.e., gifts that have little or no extrinsic value, are given without knowledge whether the other is giving, and without explicit expectation of reciprocity), and contributing to a joint venture that constitutes a social dilemma (i.e., puts individual resources at risk). 
+-Develop BayesACT variant of extended (ABOS) ACT model
+-make predictions about joining groups/splitting up from groups
+-how to measure/estimate “setting EPAs” for GitHub projects?
+(applicable to project as a whole:)
+-how to figure out identity EPAs from GitHub data?
+-how to figure out behaviour EPAs and/or labels analogously to Dave’s group simulator paper / Bales interaction process analysis
+
+Benefits:
+
+Lawler, Thye, and Yoon have recently proposed and tested a theory of social commitments, showing that affective ties solve two fundamental problems of social order in groups that cannot be resolved with cognitive ties alone: sustaining membership and achieving the joint gains of collaboration. They find that joint tasks generate a sense of shared responsibility leading members to attribute their emotions from task interactions to the group as an object. 
+
+Such an affective alignment predicts decision to join or abandon existing projects or to start new ones - when confronted with a certain project through exposure in one’s social network, there are two determinants of the decision to take part or not: the content/meaning of the project (“it would be really, really cool to be part of developing Linux”) and the anticipated interaction experiences (“people seem to be kind of bossy here, which I really don’t like”). Both could be captured in parallel by an extended ACT model that would include settings (i.e., the projects) as per Lynn Smnvith-Lovin’s 1980’s work.
+
+The learned model will combine with mined identities in specific situations to produce useful decision support for social coders. It will provide guidance and help in the structuring of a social groups online to make more productive networks.  It will identify strengths and flaws in networks and report these to group members. It will provide online assistance during interactions to make them more effective.
+
+Data to be used: 
+
+The various types of data that we can get from open source projects in Github are as follows:
+
+1) Issue reports created by both developers and users of the software.
+2) The discussion on each issue carried out by a subset of developers trying to build a solution for the issue.
+3) Which solutions were accepted and which were rejected.
+4) The description and rationale for the solution from the source code changes and comments. 
+5) The quality of the solution (by examining if more bugs occur in after the solution has been implemented).
+6) The developers who have been making changes to a particular part of the software.
+7) The list of people who collaborate on a particular task.
+8) The complete list of changes done by a specific developer to a software project (along with when it was made).
+9) The contact details of the developers in case we need to reach out to them to clarify our findings. 
+10) (Possibly) the social media handles for the developers.
+11) The complexity of the changes and other software engineering metrics that we can use as control variables to compare apples to apples. 
