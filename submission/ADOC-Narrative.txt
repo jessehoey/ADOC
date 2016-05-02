@@ -1,5 +1,7 @@
 ADOC: Affective Dimension of Collaboration
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 From the call: 
 •	Describe and discuss the objectives and research questions you are addressing in your project and make the case for their importance to the humanities and/or social sciences. Discuss your proposed methodology for addressing these questions.  
 •	Provide a clear and concise summary of a state of the art survey of the relevant field. The goal of the survey is to call attention to similar work in the area of study. If there are existing projects that are similar in nature to your project, please describe them and discuss how they relate to the proposed project. This environmental scan should make it clear that you are aware of similar work being done; it should explain how the proposed project contributes to and advances the field.  
@@ -7,10 +9,11 @@ From the call: 
 •	Describe in detail the data chosen for the project. Demonstrate appropriate authorisation related to intellectual property or privacy issues associated with the data needed for the project. In the Letters of Commitment Section below, provide letters from the data guardians, indicating permissions to use the data, if appropriate.  
 •	Provide a concise history of the project, including information about preliminary research or planning, financial support and/or in-kind contributions already received, and resources or research facilities available.  
 •	Describe how your research project will assist in the training of students and newer-to-the-field researchers on your team.  
-In this research project, we address the question of the nature of human collaboration using large-scale digital data traces from online collaborative networks (OCNs)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-Our goal is to provide new theoretical insights into what makes human online collaborations succeed, and, complementarily, what makes them fail. For example, we will look at inclusivity: what aspects of the inclusion or exclusion of contributors in an online social network help to promote or impede efficient collaborative efforts?  We will also study interaction: how can communication be improved so that important social relationships are maintained, and detrimental ones are extinguished?  Finally, we will study identity: what social structures are needed to form and to maintain strong and effective online collaborative networks?  
+In this research project, we address the question of the nature of human collaboration using large-scale digital data traces from online collaborative networks (OCNs). Our goal is to provide new theoretical insights into what makes human online collaborations succeed, and, complementarily, what makes them fail. For example, we will look at inclusivity: what aspects of the inclusion or exclusion of contributors in an online social network help to promote or impede efficient collaborative efforts?  We will also study interaction: how can communication be improved so that important social relationships are maintained, and detrimental ones are extinguished?  Finally, we will study identity: what social structures are needed to form and to maintain strong and effective online collaborative networks?  
 
 We propose that the answer to these and other questions lies in the online social coding network. In the modern economy, a vast amount of human effort is currently expended online. While much of this effort may be viewed as mainly directed towards social goals  (i.e. a teen’s selfies sent to friends), a large and growing community is using online social networks such as GitHub to collaborate on work projects.  In fact, a large amount of modern business is done online, with little or no personal contact.  
 
@@ -104,3 +107,9 @@ other funding –
 -	Kim’s grant to develop the simulator – we can leverage this so we’re not building a “tool” in this grant (something we are not supposed to do)
 
 Other funding we can leverage? 
+
+
+
+Describe how your research project will assist in the training of students and newer-to-the-field researchers on your team.  
+
+We will turn out a whole new generation of ACTers...
